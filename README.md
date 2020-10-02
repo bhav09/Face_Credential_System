@@ -1,4 +1,5 @@
 # Face_Credential_System
+Face is the easiest way to distinguish individuals among people. Facial recognition device feels closest to people without repulsion because it authenticates by recognizing people's faces.
 
 What it does:
 
